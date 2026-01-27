@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rhtyaduvanshi&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=rhtyaduvanshi&theme=radical&margin-w=10&no-bg=true)
+![](https://github-trophies.vercel.app/?username=rhtyaduvanshi&theme=radical&margin-w=10&margin-h=10&no-bg=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
