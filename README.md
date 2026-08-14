@@ -2,7 +2,7 @@
 
 ### 🚀 Full-Stack Web Developer | WordPress | WooCommerce | Shopify | Shopify Plus | PHP
 
-**6+ Years of Professional Web Development Experience**
+**8+ Years of Professional Web Development Experience**
 
 I’m a Full-Stack Web Developer specializing in **WordPress, WooCommerce, Shopify, Shopify Plus, PHP, Liquid, JavaScript, APIs, custom plugin development, eCommerce solutions, and website performance optimization**.
 
