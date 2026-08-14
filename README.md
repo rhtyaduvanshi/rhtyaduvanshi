@@ -259,6 +259,12 @@ Experience and knowledge around advanced Shopify Plus requirements, including:
 | ----------------------------- | --------------- | ------------------------------------------------ |
 | 🎬 Red Chillies Entertainment | Web Development | [Visit Website](https://www.redchillies.com/)    |
 | 📺 Zee Entertainment          | Web Development | [Visit Website](https://www.zee.com/)            |
+
+| WK Progress                   | Web Development | [Visit Website](https://wkprogress.com/)         |
+| Granturismo Dubai             | Web Development | [Visit Website](https://granturismodubai.com/)   |
+
+| Varex Group                   | Web Development | [Visit Website](https://varex-group.be/)         |
+| Xcar Rental                   | Web Development | [Visit Website](https://xcarrental.com/)         |
 | Sobeys                        | WordPress / PHP | [Visit Website](https://www.sobeys.com)          |
 | The Beer Store                | WordPress / PHP | [Visit Website](https://www.thebeerstore.ca)     |
 | Stackabl                      | WordPress / PHP | [Visit Website](https://www.stackabl.io)         |
