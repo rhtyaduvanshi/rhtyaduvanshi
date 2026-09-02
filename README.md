@@ -283,6 +283,7 @@ Experience and knowledge around advanced Shopify Plus requirements, including:
 | Elurny                   | [Visit Website](https://elurny.com/)                 |
 | Europort Pharma          | [Visit Website](https://www.europort-pharma.eu/)     |
 | The Beer Store           | [Visit Website](https://www.thebeerstore.ca)         |
+| The RYMAN Hp             | [Visit Website](https://www.rymanhp.com/)            |
 | IceCann                  | [Visit Website](https://icecann.com/)                |
 | Quality Smart Solutions  | [Visit Website](https://qualitysmartsolutions.com/)  |
 | Art Studio Be You        | [Visit Website](https://artstudiobeyou.com/)         |
